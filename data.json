@@ -1,0 +1,42 @@
+{
+    "id": "https://github.com/EdinburghCityScope/nhs-antenatal-smoking",
+    "title": "NHS Ante-Natal Smoking in Edinburgh",
+    "description": "Number and percentage of mothers in Edinburgh reporting their smoking status at ante-natal booking visit in the community or at hospital.",
+    "landingPage": "https://github.com/EdinburghCityScope/nhs-antenatal-smoking",
+    "issued": "2016-10-21",
+    "modified": "2016-11-18",
+    "language": [
+        "en"
+    ],
+    "publisher": {
+        "name": "NHS Information Services Division",
+        "mbox": "NSS.isdSCT@nhs.net"
+    },
+    "spatial": "http://www.geonames.org/maps/google_55.95_-3.193.html",
+    "keyword": [
+        "health"
+    ],
+    "distribution": [
+        {
+            "title": "Edinburgh Data Zones 2001",
+            "description": "Data Zones 2001 boundaries in GeoJSON.",
+            "mediaType": "application/vnd.geo+json",
+            "downloadURL": "https://raw.githubusercontent.com/EdinburghCityScope/nhs-antenatal-smoking/master/data/data-zones-2001.json",
+            "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/"
+        },
+        {
+            "title": "Edinburgh Data Zones 2011",
+            "description": "Data Zones 2011 boundaries in GeoJSON.",
+            "mediaType": "application/vnd.geo+json",
+            "downloadURL": "https://raw.githubusercontent.com/EdinburghCityScope/nhs-antenatal-smoking/master/data/data-zones-2011.json",
+            "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/"
+        },
+        {
+            "title": "Ante Natal Smoking in Edinburgh",
+            "description": "Number and ratio of mothers in Edinburgh reporting their smoking status at ante-natal booking visit in the community or at hospital by Data Zone as published by NHS Information Services Division. Data taken from http://statistics.gov.scot/data/antenatal-smoking",
+            "mediaType": "text/csv",
+            "downloadURL": "https://raw.githubusercontent.com/EdinburghCityScope/nhs-antenatal-smoking/master/data/antenatal-smoking.csv",
+            "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/"
+        }
+    ]
+}
